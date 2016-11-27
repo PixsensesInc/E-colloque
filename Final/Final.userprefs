@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Custom/Rotation_Asteoide/Jupiter/Rotation_Callisto.js">
+    <Files>
+      <File FileName="Assets/Scripts/Custom/Rotation_Asteoide/Jupiter/Rotation_Callisto.js" Line="7" Column="24" />
+      <File FileName="Assets/Scripts/Custom/Pivotation_Planètes/Pivotation_Mars.js" Line="7" Column="27" />
+      <File FileName="Assets/Scripts/Custom/Pivotation_Planètes/Pivotation_Jupiter.js" Line="7" Column="23" />
+      <File FileName="Assets/Scripts/Custom/Rotation_Asteoide/Jupiter/Rotation_Europe.js" Line="7" Column="24" />
+      <File FileName="Assets/Scripts/Custom/Rotation_Asteoide/Jupiter/Rotation_Ganymede.js" Line="7" Column="24" />
+      <File FileName="Assets/Scripts/Custom/Rotation_Asteoide/Jupiter/Rotation_Io.js" Line="7" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
